@@ -1,4 +1,4 @@
-#Ideal Sampling
+# Ideal Sampling
 
 Aim:
 
