@@ -1,10 +1,11 @@
-# Ideal Sampling
-
-Aim:
+# Exp:1 Ideal Sampling
+# Name: Keerthana S
+# Reg No: 212223060122
+### Aim:
 
 To perform ideal (impulse) sampling of a continuous-time sinusoidal signal, visualize the sampled signal, and reconstruct it using Python.
 
-Tools/Software Required:
+### Tools/Software Required:
 
 1. Python Software
 
@@ -14,7 +15,7 @@ Tools/Software Required:
 
 -> Scipy Library (for signal processing)
 
-Program :
+### Program :
 
 #Impulse Sampling
 
@@ -92,7 +93,7 @@ plt.show()
 
 
 
-Output Waveform : 
+### Output Waveform : 
 
 ![Screenshot 2025-03-22 155318](https://github.com/user-attachments/assets/442e4910-09f2-4f8a-92cb-1967fe470e19) 
 
@@ -100,7 +101,7 @@ Output Waveform :
 
 ![Screenshot 2025-03-22 155437](https://github.com/user-attachments/assets/21ed6514-a25d-4479-9b5d-b3e433ba5d68)
 
-Results :
+### Results :
 
 The continuous sinusoidal signal was successfully sampled using ideal (impulse) sampling.
 
